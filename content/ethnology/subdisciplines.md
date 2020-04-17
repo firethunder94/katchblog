@@ -1,6 +1,6 @@
 ---
 title: "Subdisciplines of Ethnology"
-date: "2020-04-17"
+date: "2020-04-27"
 url: "/subdisciplines"
 draft: true
 description: "Different subdisciplines of Ethnology and embedding them"

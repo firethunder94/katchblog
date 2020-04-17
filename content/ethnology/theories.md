@@ -1,6 +1,6 @@
 ---
 title: "Ethnological theories and their origins"
-date: "2020-04-16"
+date: "2020-04-20"
 url: "/theories"
 draft: true
 description: "Most important theories and there origins"
