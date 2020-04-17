@@ -6,7 +6,7 @@ Add files to local git repo:
 - git add *
 
 Commit local changes:
-- git commit
+- git commit -m "<your message>"
 
 Push changes to github
 - git push
