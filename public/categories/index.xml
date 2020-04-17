@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Katching Up With Travelling</title>
+      <link>/categories/katching-up-with-travelling/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/katching-up-with-travelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katching Up With Ethnology</title>
+      <link>/categories/katching-up-with-ethnology/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/katching-up-with-ethnology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katching Up With Katja</title>
+      <link>/categories/katching-up-with-katja/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/katching-up-with-katja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katching Up With Handcraft</title>
+      <link>/categories/katching-up-with-handcraft/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/katching-up-with-handcraft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

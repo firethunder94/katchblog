@@ -1,0 +1,53 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Katch Blog"
+license = "MIT"
+licenselink = "https://github.com/xaprb/story/blob/master/LICENSE.md"
+description = "A beautiful, responsive blog and homepage theme with support for features like search, math typesetting, and RemarkJS presentations."
+homepage = "https://story.xaprb.com/"
+tags = ["Blog", "Presentation", "Slide", "Newsletter"]
+features = ["blog", "slides", "LaTeX", "search", "newsletter", "math", "music"]
+min_version = "0.47"
+
+[author]
+  name = "Katja Manser"
+  homepage = "0.0.0.0"
+
+# Site settings
+baseurl = "http://katchblog.com/"
+title = "Katch Blog"
+paginate = 5
+buildFuture = true
+
+[[menu.social]]
+  name = "GitHub"
+  title = "fab fa-instagram"
+  url= "http://instagram.com/traevolo"
+
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
+
+[[menu.main]]
+  name = "Categories"
+  title = "Categories"
+  url = "/categories/"
+
+[params]
+  author = "Katja Manser"
+  instagram = "traevolo"
+  classes = []
+
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
+
+
+# Name of theme
+theme = "themes/story"

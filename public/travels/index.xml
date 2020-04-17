@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travels on </title>
+    <link>/travels/</link>
+    <description>Recent content in Travels on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/travels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thailand, in summer 2016</title>
+      <link>/thailand/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/thailand/</guid>
+      <description>&lt;p&gt;Sooo, Thailand! I&amp;rsquo;ve spent three weeks in the home country of my aunt (she is Thai and moved to Switzerland when she married my uncle), not with her, but with three friends. We&amp;rsquo;ve been backpacking during summer, which means off-season. That gave us the chance to decide spontaneously where to go and what to do instead of planning everything in advance. Nevertheless we had some things we wanted to do like seeing elephants, going on a trek and relaxing at the beaches. We managed to do all of that and way more during our trip.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Morocco, in spring 2019</title>
+      <link>/morocco/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/morocco/</guid>
+      <description>&lt;p&gt;Morocco has been on my To-Do-List for quite a while. I&amp;rsquo;ve heard about this versatile country and I always imagined to go backpacking there some day. Eventually, we planned a family trip during spring break and booked a guided group travel for ten days.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Katching Up With Travelling</title>
+      <link>/katchingtravelling/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/katchingtravelling/</guid>
+      <description>&lt;p&gt;One of my favourites things to do is to travel. I love being on the road, meeting new people, immersing myself in a completely different world. Tasting food I&amp;rsquo;ve never heard of, feeling the vibe of a buzzing city or relaxing on a lonely beach. I love the adventures, living just for the moment without knowing what to expect next and being open for whatever might come. I love the liberty and the expansion of the horizon that comes with travelling.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

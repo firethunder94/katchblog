@@ -1,0 +1,82 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> </title>
+		<link>/0_mailchimp/index.xml</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Katja Manser</author>
+		<rights>Copyright (c) 2020</rights>
+		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>Thailand, in summer 2016</title>
+			<link>/thailand/</link>
+			<pubDate>Mon, 13 Apr 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/thailand/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/thailand/beach.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Thailand with friends in summer 2016</description>
+		</item>
+		
+		<item>
+			<title>A Brief History of Ethnology</title>
+			<link>/history/</link>
+			<pubDate>Tue, 07 Apr 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/history/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/history/herodot.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Brief history of Ethnology</description>
+		</item>
+		
+		<item>
+			<title>Morocco, in spring 2019</title>
+			<link>/morocco/</link>
+			<pubDate>Thu, 02 Apr 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/morocco/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/morocco/aitbenhaddou2.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Group Travel in Morocco in April 2019</description>
+		</item>
+		
+		<item>
+			<title>Katching Up With Travelling</title>
+			<link>/katchingtravelling/</link>
+			<pubDate>Wed, 01 Apr 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/katchingtravelling/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/katching-travels/globetrotter.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Introduction to categrie travelling</description>
+		</item>
+		
+		<item>
+			<title>Katching Up With Ethnology</title>
+			<link>/katchingethnology/</link>
+			<pubDate>Sat, 28 Mar 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/katchingethnology/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/katching-ethnology/nations.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Introduction to Ethnology. What is Ethnology? Why do I study Ethnology?</description>
+		</item>
+		
+		<item>
+			<title>Speaking Out</title>
+			<link>/speakingout/</link>
+			<pubDate>Fri, 27 Mar 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/speakingout/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/speaking-out/diary2.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Being myself. Being in a new group. Blogging.</description>
+		</item>
+		
+		<item>
+			<title>Bärlauchpesto</title>
+			<link>/baerlauchpesto/</link>
+			<pubDate>Tue, 24 Mar 2020 00:00:00 UTC</pubDate>
+			<author>Katja Manser</author>
+			<guid>/baerlauchpesto/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/b%C3%A4rlauch/b%C3%A4rlauchquer2.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Rezept für eigenes Bärlauchpesto</description>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethnologies on </title>
+    <link>/ethnology/</link>
+    <description>Recent content in Ethnologies on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/ethnology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Brief History of Ethnology</title>
+      <link>/history/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/history/</guid>
+      <description>&lt;p&gt;You think, Ethnology is something new? Far wrong. Although it hasn&amp;rsquo;t been institutionalised until the end of the 19th century and still is a small chair, the interest in other peoples existed long before and people always wrote about other cultures. How ethnology has developed, you can find out here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Katching Up With Ethnology</title>
+      <link>/katchingethnology/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/katchingethnology/</guid>
+      <description>&lt;p&gt;When I told my friends and family that I&amp;rsquo;m going to study Ethnology, everyone was like: &amp;ldquo;Oh nice. Sounds great. But&amp;hellip; what is Ethnology exactly?&amp;rdquo; I don&amp;rsquo;t blame them for this reaction, I didn&amp;rsquo;t know what Ethnology is either before I discovered it on the university website. Ethnology isn&amp;rsquo;t present in peoples heads, although our behaviour is closely related with it. Ethnology isn&amp;rsquo;t present in the public, although we are confronted with it in everydays life. And Ethnology isn&amp;rsquo;t present in politics, although it is very important in the globalised world we&amp;rsquo;re living in.&lt;/p&gt;
+&lt;p&gt;So, what is Ethnology? With this blog, I&amp;rsquo;d like to bring Ethnology closer to the people. And in this first blogpost, I&amp;rsquo;d like to give a first impression of it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
