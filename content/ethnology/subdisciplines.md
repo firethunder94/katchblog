@@ -13,7 +13,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-As an Ethnologist you pick a region where you want to do your research (that can be all over the world, even in your home country), and a topic what your research should be about. This topics can be summarised to subdisciplines of Ethnology, for example political structures, medicine or religion.
+As an Ethnologist you pick a region where you want to do your research (that can be all over the world, even in your home country), and a topic on which your research is about. This topics can be summarised to subdisciplines of Ethnology, for example political structures, medicine or religion.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ Before we go further into the subdisciplines, I'd like to go a step backwards an
 - tones: Linguistic anthropology
 - thrones: Social and cultural anthropology
 
-Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different peoples. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are economy, political structure, social structure, religion and gender. But there are as well others like medicine, origins, music, globalisation and so on.
+Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different peoples. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are economy, political structure, social structure, religion and gender. But there are also others like medicine, origins, music, globalisation and so on.
 
 In the next few blog posts I'd like to give you a little insight of the five main subdisciplines. I hope you're looking forward to it as I do!
 

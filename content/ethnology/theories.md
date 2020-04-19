@@ -75,7 +75,7 @@ Here is an quick overview of all the theories I've mentioned and explained above
 |Symbolic anthropology | Victor Turner | UK | Everything is symbolic |
 |Structuralism | Claude Lévi-Strauss | France | Universal organising principles |
 
-You ask why there are only white anthropologists? I asked it myself as well. And I suppose it's because white men prefer accrediting white mens work. Or they think it's more important to talk about them. Yeah, as if we have left evolutionism completely behind us. But with talking about that and becoming aware of this drawback we can make an effort to get over it and to cultural relativism.
+You ask why there are only white anthropologists? I asked it myself as well. And I suppose it's because white men prefer accrediting white mens work. Or they think it's more important to talk about them. Yeah, as if we have left unilineal evolution completely behind us. But with talking about that and becoming aware of this drawback we can make an effort to get over it and to cultural relativism.
 
 ### Bibliography
 
