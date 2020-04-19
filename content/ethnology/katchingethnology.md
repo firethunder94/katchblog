@@ -19,9 +19,9 @@ So, what is Ethnology? With this blog, I'd like to bring Ethnology closer to the
 
 <!--more-->
 
-Ethnology, Social Anthropology, Social and Cultural Anthropology, ... there are so many different names for the same subject. The word "Ethnology" is a composition of the greek words _ethnos_, which means _peoples_, and _logos_, which stands for any scientific discipline. Ethnology is therefore the doctrine of peoples.
+Ethnology, Social Anthropology, Social and Cultural Anthropology, ... there are so many different names for the same subject. The word "Ethnology" is a composition of the greek words _ethnos_, which means _peoples_, and _logos_, which stands for any scientific discipline. Ethnology is therefore the doctrine of societies.
 
-So, Ethnology is about peoples. Peoples all over the world. It's about how other people live their lifes. About what is important for them, what their beliefs and their practices are. And reciprocally, while studying other people, we discover a lot of our habits. We understand why we are doing things the way we do them. That our lifestyle isn't the norm everywhere just because it is the norm in our culture. Ethnologists want to discover everything that's foreign, compare it to the known and convert it from foreign to a normal alternative way of life.
+So, Ethnology is about societies. Societies all over the world. It's about how other people live their lifes. About what is important for them, what their beliefs and their practices are. And reciprocally, while studying other people, we discover a lot of our habits. We understand why we are doing things the way we do them. That our lifestyle isn't the norm everywhere just because it is the norm in our culture. Ethnologists want to discover everything that's foreign, compare it to the known and convert it from foreign to a normal alternative way of life.
 
 Ethnology isn't about hard skills. As a student you don't have to learn things by heart like medicine students learn all the bones of the human body. It is about soft skills. We learn empathy. We learn changing our point of view. We learn seeing things from someone else's perspective, called the emic perspective. We learn listening to people, although we don't have the same opinion as they have. We learn accepting that there are other ways and thus questioning our ways so that we can find the most suitable way for ourselves. We learn not to generalise, but to recognise the similarities and the differences. And we learn to mediate between cultures. Or in the words of Streck (1997):
 
@@ -31,7 +31,7 @@ In our globalised world soft skills gain in importance. I think it is inevitable
 
 ![Building bridges](/img/katching-ethnology/perspectives.png)
 
-### Bibliography
+### Resources
 Streck, B.: Fröhliche Wissenschaft Ethnologie – eine Führung. Edition Trickster im Peter-Hammer-Verlag, Wuppertal 1997.
 
 

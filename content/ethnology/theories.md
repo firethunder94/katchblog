@@ -3,8 +3,8 @@ title: "Ethnological theories and their origins"
 date: "2020-04-20"
 url: "/theories"
 draft: true
-description: "Most important theories and there origins"
-tldr: "Most important theories and there origins"
+description: "Most important theories and their origins"
+tldr: "Most important theories and their origins"
 image: "/img/theories/aurora.jpg"
 thumbnail: "/img/theories/aurora.jpg"
 categories:
@@ -77,6 +77,6 @@ Here is an quick overview of all the theories I've mentioned and explained above
 
 You ask why there are only white anthropologists? I asked it myself as well. And I suppose it's because white men prefer accrediting white mens work. Or they think it's more important to talk about them. Yeah, as if we have left unilineal evolution completely behind us. But with talking about that and becoming aware of this drawback we can make an effort to get over it and to cultural relativism.
 
-### Bibliography
+### Resources
 
 Boas, F.: Anthropology and Modern Life. W. W. Norton and Company, New York 1928.
