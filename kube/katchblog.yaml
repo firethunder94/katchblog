@@ -6,7 +6,11 @@ metadata:
 spec:
   ports:
   - port: 80
-    targetPort: 80
+    name: http
+    targetPort: 8080
+  - port: 443
+    name: https
+    targetPort: 4443
   selector:
     app: katchblog
 ---
@@ -25,15 +29,26 @@ spec:
       labels:
         app: katchblog
     spec:
-      volumes:
-      - name: katchblog-storage
-        persistentVolumeClaim: 
-          claimName: katchblog-claim
       containers:
       - name: katchblog
-        image: httpd:2.4
+        image: jonas27test/goserver:v0.0.4
+        # args: ["-serverCrt", "tls.crt","-serverKey", "tls.key"]
         ports:
-        - containerPort: 80
+        - name: http
+          containerPort: 8080
+        - name: https 
+          containerPort: 4443
         volumeMounts:
-          - mountPath: /usr/local/apache2/htdocs/
+          - mountPath: /static
             name: katchblog-storage
+          # - mountPath: "/cert/"
+          #   name: katchblog-tls
+          #   readOnly: true
+      volumes:
+      - name: katchblog-storage
+        hostPath:
+          path: "/volumes/katchblog"
+      - name: katchblog-tls
+        secret:
+          secretName: katchblog-secret
+      restartPolicy: Always
