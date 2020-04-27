@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: katchblog
-        image: jonas27test/goserver:v0.0.4
+        image: jonas27test/goserver:latest
         # args: ["-serverCrt", "tls.crt","-serverKey", "tls.key"]
         ports:
         - name: http

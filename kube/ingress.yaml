@@ -6,6 +6,11 @@ metadata:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /*
 spec:
+  tls:
+  - hosts:
+    - katchblog.com
+    - www.katchblog.com
+    secretName: katchblog-server-tls
   rules:
   - host: katchblog.com
     http:
@@ -23,19 +28,3 @@ spec:
         backend:
           serviceName: katchblog
           servicePort: 80
-  - host: s.katchblog.com
-    http:
-      paths:
-      - path: /*
-        pathType: Prefix
-        backend:
-          serviceName: katchblog
-          servicePort: 443
-  - host: s.www.katchblog.com
-    http:
-      paths:
-      - path: /*
-        pathType: Prefix
-        backend:
-          serviceName: katchblog
-          servicePort: 443
