@@ -10,3 +10,7 @@ Commit local changes:
 
 Push changes to github
 - git push
+
+### Counter
+www.katchblog.com/metrics
+

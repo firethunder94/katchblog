@@ -2,7 +2,7 @@
 title: "Ethnological theories and their origins"
 date: "2020-04-20"
 url: "/theories"
-draft: true
+draft: false
 description: "Most important theories and their origins"
 tldr: "Most important theories and their origins"
 image: "/img/theories/aurora.jpg"
@@ -13,7 +13,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Ethnology, also known as Social Anthropology is a discipline with a lot of twists and turns in the past 200 years. Ethnologists came up with new theories, others approved and even enhanced them and on the other hand, others disapproved them. I'd like to give you an overview of the most important theories and tell you where they come from.
+Ethnology, also known as Social anthropology is a discipline with a lot of twists and turns in the past 200 years. Ethnologists came up with new theories, some approved and even enhanced them and on the other hand, others disapproved them. I'd like to give you an overview of the most important theories and tell you where they come from.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ The first big theory was **unilineal evolution**. I've already explicated this t
 
 ### Diffusionism
 
-In Germany they came up with two different theories. Adolf Bastian had the idea of **Elementargedanken** ("elementary ideas"), meaning that every society comes up with an idea or invention itself. For example taking the invention of bow and arrow, Bastian says that every society had the idea of constructing bow and arrow independent. So it was invented several times.
+In Germany they came up with two different theories. Adolf Bastian had the idea of **Elementargedanken** ("elementary ideas"), meaning that every society comes up with an idea or invention itself. For example taking the invention of bow and arrow, Bastian says that every society had the idea of constructing bow and arrow independently. So it was invented several times.
 
 Contrary to Bastian, Leo Frobenius had the idea of **Kulturkreise** ("cultural circles"), meaning that every culture has a centre of origin but becomes diffused over large areas of the world. Readopting the example of bow and arrow, Frobenius says that it was invented once and then spread through diffusionism.
 
@@ -52,7 +52,7 @@ In the UK anthropologists followed another approach. Bronislaw Malinowski was tr
 
 Students from Malinowski developed functionalism further and said that these institutions are inevitable for the preservation and function of the social structure. Every institution is part of a bigger thing and therefore irreplaceable. One representative of the so called **structural functionalism** is Alfred R. Radcliffe-Brown.
 
-As both theories didn't take history into account, it was developed again in Manchester to **symbolic anthropology** laying the focus on the process. Victor Turner for example said that if we break the norms, we are in a state of liminality and to get back to the norm we have a special rite. For example, if I eat my sisters lunch (break), I have to apologise (rite) to get back normal living. So everything symbolic for something else.
+As both theories didn't take history into account, it was developed again in Manchester to **symbolic anthropology** laying the focus on the process. Victor Turner for example said that if we break the norms, we are in a state of liminality and to get back to the norm we have to perform a special rite. For example, if I eat my sisters lunch (break), I have to apologise (rite) to get back to normal living. So everything is symbolic for something else.
 
 ![(Structural) Functionalism](/img/theories/functionalism.png)
 

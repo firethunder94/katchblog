@@ -29,7 +29,7 @@ Our journey began in **Bangkok**, the capital of Thailand. We've booked a room i
 
 From Bangkok we took a night train to the south, as we wanted to check out the famous islands Koh Phangan and Koh Tao on our own (we haven't been on Koh Samui though). On the way there - we had to take buses and ferries - we felt like a piece of luggage as we got a sticker and people just ordered us to go this or that way depending on the colour of our sticker. But it was actually a nice way to travel, we didn't have to take care if we're on the right path. 
 
-On **Koh Tao**, the smallest of the three islands which is famous for diving. That's why we tried diving as well and the other three girls liked it very much whereas me... well, I paniced a little bit under the water. So when they did the second tour, I just snorkeled and wow, those fishes! It was so nice to see the reef and this idyllic place. As the islands are former volcanic islands, we tried to go to the top, but get lost in the jungle. On the way back we allowed ourselves to have a Thai massage and some food at a shabby-looking but delicious restaurant.
+On **Koh Tao**, the smallest of the three islands which is famous for diving. That's why we tried diving as well and the other three girls liked it very much whereas me... well, I paniced a little bit under the water. So when they did the second tour, I just snorkeled and wow, those fishes! It was so nice to see the reef and this idyllic place. As the islands are former volcanic islands, we tried to go to the top, but got lost in the jungle. On the way back we allowed ourselves to have a Thai massage and some food at a shabby-looking but delicious restaurant.
 
 ![Koh Tao](/img/thailand/tao.jpg)
 
