@@ -1,6 +1,6 @@
 ---
 title: "Subdisciplines of Ethnology"
-date: "2020-04-27"
+date: "2020-04-21"
 url: "/subdisciplines"
 draft: true
 description: "Different subdisciplines of Ethnology and embedding them"
@@ -24,7 +24,7 @@ Before we go further into the subdisciplines, I'd like to go a step backwards an
 - tones: Linguistic anthropology
 - thrones: Social and cultural anthropology
 
-Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different people. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are economy, political structure, social structure, religion and gender. But there are also others like medicine, origins, music, globalisation and so on.
+Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different people. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are economy, political structure, religion, social structure and gender. But there are also others like medicine, origins, music, globalisation and so on.
 
 In the next few blog posts I'd like to give you a little insight of the five main subdisciplines. I hope you're looking forward to it as I do!
 

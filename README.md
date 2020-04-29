@@ -14,3 +14,25 @@ Push changes to github
 ### Counter
 www.katchblog.com/metrics
 
+
+
+### Ethnology
+[xx] Subdisciplines
+[] Politics
+[x] Economy
+[] Religion
+[xx] Social
+[xx] Gender
+[] Methods
+
+### Travels
+[] Belgium
+[] England
+[] Skandinavia
+[] Slowenia/Croatia
+[] City Trips
+
+### Katching Katja
+[] About Me
+[] Schubladendenken
+[] Veganism

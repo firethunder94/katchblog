@@ -1,6 +1,6 @@
 ---
 title: "Brazil, in summer 2015"
-date: "2020-04-04"
+date: "2020-04-27"
 url: "/brazil"
 draft: false
 description: "Family journey in Brazil 2015"
@@ -29,7 +29,7 @@ The first day in Rio we had a private guided tour driving in a car to nice viewp
 
 ![Favelas](/img/brazil/rio3.jpg)
 
-From Rio de Janeiro we flew to **Brasilia**, the capital city since 1960. We had a guided tour here as well. The formation of this city is very interesting. The city hasn't existed before they wanted to move the capital to the exact center of the country. As they started building a city from scratch, they planned everything. They imagined the car to be the most important vehicule, so they built big roads and not many pavements. The whole city is very symmetric and has different districts with apartment buildings, a school, a church and grocery stores in each of them. We visited some churches, one has only blue windows and therefore is in a very special light, another one is constructed for a special acoustic so that you can hear things clearly from one side to the other because of the curved walls. Another outstanding building is the National Congress with its two towers of the legislative. Its importance is defined through its place at the head of the main road.
+From Rio de Janeiro we flew to **Brasilia**, the capital city since 1960. We had a guided tour here as well. The formation of this city is very interesting. The city hasn't existed before they wanted to move the capital to the exact center of the country. As they started building a city from scratch, they planned everything. They imagined the car to be the most important vehicle, so they built big roads and not many pavements. The whole city is very symmetric and has different districts with apartment buildings, a school, a church and grocery stores in each of them. We visited some churches, one has only blue windows and therefore is in a very special light, another one is constructed for a special acoustic so that you can hear things clearly from one side to the other because of the curved walls. Another outstanding building is the National Congress with its two towers of the legislative. Its importance is defined through its place at the head of the main road.
 
 ![Blue church](/img/brazil/brazilia1.jpg)
 
