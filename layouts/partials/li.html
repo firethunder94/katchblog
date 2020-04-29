@@ -4,7 +4,17 @@
 		<div class="db pv4 {{ cond $hdr "ph3" "" }} ph0-l no-underline dark-gray">
 			<div class="flex flex-column flex-row-ns">
 				{{ if $hdr }}
-				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center;">
+				{{ if eq .Title "Katching Up With Travelling" }}
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/travelling.jpg" ) }}'); background-position: center;">
+				{{ else if eq .Title "Katching Up With Ethnology" }}
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/ethnology.jpg" ) }}'); background-position: center;">
+				{{ else if eq .Title "Katching Up With Katja" }}
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/katja.jpg" ) }}'); background-position: center;">
+				{{ else if eq .Title "Katching Up With Handcraft" }}
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/handcraft.jpeg" ) }}'); background-position: center;">
+				{{ else }}
+					<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center;">
+				{{ end }}
 					<a href="{{ .Permalink }}" class="sans-serif db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
 						<i class="mt3 mt5-l child far {{ cond (gt .Date.Unix now.Unix) "fa-hourglass" "fa-calendar-alt" }}"></i> {{ .Date.Format "Jan 2, 2006" }}
 					</a>

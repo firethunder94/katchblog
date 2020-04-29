@@ -2,10 +2,11 @@
 layout: categories
 url: /categories/
 title: Categories
-# image: "/img/subdisciplines/economy.jpg"
-# thumbnail: "/img/subdisciplines/economy.jpg"
+# img: "/img/subdisciplines/economy.jpg"
+# thumb: "/img/subdisciplines/economy.jpg"
 classes:
 - feature-nosubtitle
 - feature-depth
+
 
 ---
