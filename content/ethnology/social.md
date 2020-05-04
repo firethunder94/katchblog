@@ -17,7 +17,7 @@ Social structure is one of the most important subdisciplines of Ethnology. It is
 
 <!--more-->
 
-Ethnologists had always a big interest in relations, especially in kinship. In investigation of societies without a government they found that kinship granted the societies a basic order. Therefore they concluded that the organisation of the society wasn't maintained through governments, but naturally through kinship. Since the 1960s the main focus of social structure shifted from kinship to networks in general. Not only relatives but friends and other relationships are important too and that was the start of the investigation of the whole network of a person.
+Ethnologists had always a big interest in relations, especially in kinship. Kinship is the web of social relationships, especially blood relationships. In investigation of societies without a government they found that kinship granted the societies a basic order. Therefore they concluded that the organisation of the society wasn't maintained through governments, but naturally through kinship. Since the 1960s the main focus of social structure shifted from kinship to networks in general. Not only relatives but friends and other relationships are important too and that was the start of the investigation of the whole network of a person.
 
 I'd like to stick with the kinship today and will reveal some of the presumptions of the global north on how kinship works.
 
@@ -31,7 +31,7 @@ This brings us to the next point: Relatedness. The two typical forms of relatedn
 You know all the relatives from your father's side as well as from your mother's side, don't you? Not everyone does. In some societies the lineage of only one parent counts, so they either know the ancestors of their father or those of their mother. Some can even choose which lineage they would like to follow.
 
 - **Marriage rules**:
-Some years ago, living in monogamy was the only option. People weren't able to imagine that polygamy is just another way to lead the love life although it was and is a common practice in other societies. Having an open relationship is trending in young adults life of the global north and I think that can absolutely function with good communication and should be accepted as a lifestyle.
+Some years ago, living in monogamy was the only option. People weren't able to imagine that polygamy is just another way to lead a love life although it was and is a common practice in some societies. Another way is having an open relationship, that one is trending in young adults life of the global north and I think that can absolutely function with good communication and should be accepted as a lifestyle.
 
 - **Residence rule**:
 Getting into a relationship, starting a life together in your own apartment, maybe even in a new town? Not as normal as you believe it is! Moving into the town of the man's family or into the household of the woman's family can be the norm as well. If the Bororos, indigenous people of Brazil marry, the husband moves into the house of the wife's family, where multiple generations live. 

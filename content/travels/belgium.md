@@ -19,3 +19,23 @@ ed
 
 We 
 
+Ghent
+Citadelle
+Dinant
+Brüssel
+Ardennes
+Oostende
+EuroSpaceCenter
+Liege
+Walibi
+Louvain la Neuf
+Liege
+Brüssel
+Mer (brugge, oostende)
+Gent
+Lille
+Köln
+Paris
+Amsterdam
+
+WG!!!

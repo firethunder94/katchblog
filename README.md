@@ -20,7 +20,7 @@ www.katchblog.com/metrics
 [xx] Subdisciplines
 [] Politics
 [x] Economy
-[] Religion
+[xx] Religion
 [xx] Social
 [xx] Gender
 [] Methods
