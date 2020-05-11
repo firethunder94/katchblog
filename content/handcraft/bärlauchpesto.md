@@ -9,6 +9,7 @@ image: "/img/bärlauch/bärlauchquer1.jpeg"
 thumbnail: "/img/bärlauch/bärlauchquer2.jpeg"
 categories:
 - Katching Up With Handcraft
+- Katching Up With Food
 classes: 
 - feature-depth
 ---

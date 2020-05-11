@@ -1,5 +1,5 @@
 ---
-title: "Gender"
+title: "Subdiscipline V: Gender"
 date: "2020-04-26"
 url: "/gender"
 draft: true

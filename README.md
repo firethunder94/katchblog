@@ -15,11 +15,12 @@ Push changes to github
 www.katchblog.com/metrics
 
 
+Date, Subdisciplines Link
 
 ### Ethnology
 [xx] Subdisciplines
 [] Politics
-[x] Economy
+[xx] Economy
 [xx] Religion
 [xx] Social
 [xx] Gender

@@ -1,5 +1,5 @@
 ---
-title: "Religion"
+title: "Subdiscipline III: Religion"
 date: "2020-04-24"
 url: "/religion"
 draft: true

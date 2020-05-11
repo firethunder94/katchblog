@@ -1,5 +1,5 @@
 ---
-title: "Political structure"
+title: "Subdiscipline I: Political structure"
 date: "2020-04-22"
 url: "/political"
 draft: true
@@ -16,6 +16,10 @@ classes:
 
 
 <!--more-->
+
+African political Systems
+group A - B
+
 
 
 

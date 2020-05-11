@@ -1,5 +1,5 @@
 ---
-title: "Economy"
+title: "Subdiscipline II: Economy"
 date: "2020-04-23"
 url: "/economy"
 draft: true
@@ -36,3 +36,8 @@ Industrial societies use technologies to enable mass production. This is necessa
 Those are different forms of how goods can be produced or purchased. Another very interesting topic in economy is how goods are distributed. Not every society has money, some trade goods for goods and some even exchange gifts. When exchanging gifts, it is important to give enough because the reputation comes with the amount of gifts. And exchanging gifts is not only important because of the value of the goods, but as well to maintain friendship. 
 
 Economy in Ethnology is way more than buying and selling. It is a way of life, it is there to build and maintain friendships or go to war. And it is very specific depending on the values of the society.
+
+|   |   |
+|---|---|
+|![Hunter-gatherer](/img/subdisciplines/huntergatherer.png)|![Agrarian societies](/img/subdisciplines/agrarian.png)|
+|![Pastoral societies](/img/subdisciplines/pastoral.png)|![Industrial societies](/img/subdisciplines/industrial.png)|
