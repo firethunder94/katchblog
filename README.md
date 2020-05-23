@@ -13,7 +13,6 @@ Push changes to github
 
 ### Counter
 www.katchblog.com/metrics
-18
 
 
 Date, Subdisciplines Link
@@ -38,9 +37,9 @@ Date, Subdisciplines Link
 [] About Me
 [] Schubladendenken
 [] Veganism
-[x] Harari Corona 
+[xx] Harari Corona 
 
-### Freiburg What to do
+### Freiburg Around the Year
 [] Schwarzwald: Titisee Schluchsee Feldberg
 [] further: Tuniberg/Rimsinger/Breisach
 [] Coffee: Sedan, 
@@ -48,3 +47,5 @@ Date, Subdisciplines Link
 [] Views: Münster, Kanonenplatz, Schlossberg
 [] Lakes: 
 [] Hikes: Kybfelsen, Schlossberg, Schneeburg
+[] März: Bärlauch
+[] Mai: Erdbeeren

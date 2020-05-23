@@ -2,7 +2,7 @@
 title: "Yuval Noah Harari about the world before, during and after Coronavirus"
 date: "2020-05-18"
 url: "/hararicorona"
-draft: true
+draft: false
 description: "Yuval Noah Harari about the world before, during and after Coronavirus"
 tldr: "Yuval Noah Harari about the world before, during and after Coronavirus"
 image: "/img/hararicorona/harari.png"
