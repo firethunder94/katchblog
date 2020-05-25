@@ -60,3 +60,9 @@ Date, Subdisciplines Link
 [] Februar:
 [] März: Bärlauch
 [] April:
+
+### Kube stuff
+Install Isso
+```json
+
+```
