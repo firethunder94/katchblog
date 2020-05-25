@@ -16,7 +16,7 @@ spec:
       containers:
       - name: isso
         image: jonas27test/isso:latest
-        args: ["/isso/bin/isso","-c", "$ISSO_SETTINGS"]
+        args: ["/isso/bin/isso","-c", "/config/isso.cfg"]
         ports:
         - name: http
           containerPort: 8080
@@ -28,8 +28,8 @@ spec:
       volumes:
       - name: isso-config
         hostPath:
-          path: "/volumes/katchblog/isso-storage"
+          path: "/volumes/katchblog/isso-config"
       - name: isso-storage
         hostPath:
-          path: "/volumes/katchblog/isso-config"
+          path: "/volumes/katchblog/isso-storage"
       restartPolicy: Always
