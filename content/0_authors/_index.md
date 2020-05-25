@@ -1,4 +1,9 @@
 ---
+url: /author/
+title: Jonas Burster
+classes:
+- feature-nosubtitle
+- feature-depth
 ---
 ![Elvis](/img/elvis.jpg)
 

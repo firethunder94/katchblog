@@ -4,18 +4,8 @@
   <section class="w-100 mw8">
   <!-- list all talks; list non-future slides; else list things that are not future and not slides -->
   {{ $pages := where .Paginator.Pages ".Params.skip" "ne" "true" }}
-  {{ if eq .Section "talks" }}
-    {{ range $pages }}
-      {{ partial "li.html" . }}
-    {{ end }}
-  {{ else if eq .Section "slides" }}
-    {{ range where $pages ".Date.Unix" "<" now.Unix }}
-      {{ partial "li.html" . }}
-    {{ end }}
-  {{ else }}
     {{ range where (where $pages ".Date.Unix" "<" now.Unix) "Section" "ne" "slides" }}
       {{ partial "li.html" . }}
-    {{ end }}
   {{ end }}
   </section>
 </div>
