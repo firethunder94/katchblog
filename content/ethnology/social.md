@@ -13,7 +13,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Social structure is one of the most important [subdisciplines](www.katchblog.com/subdisciplines) of Ethnology. It is about relations between people. That can be relatives, close friends, colleagues or acquaintances. Relationships are fundamental for everyone and give a certain structure in our lives. 
+Social structure is one of the most important [subdisciplines](https://www.katchblog.com/subdisciplines) of Ethnology. It is about relations between people. That can be relatives, close friends, colleagues or acquaintances. Relationships are fundamental for everyone and give a certain structure in our lives. 
 
 <!--more-->
 

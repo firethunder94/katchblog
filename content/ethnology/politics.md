@@ -1,6 +1,6 @@
 ---
 title: "Subdiscipline I: Political structure"
-date: "2020-04-22"
+date: "2020-05-25"
 url: "/political"
 draft: false
 description: "Subdisciplines: Political structure"
@@ -13,7 +13,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Finally we come to the first [subdiscipline of Ethnology](www.katchblog.com/subdisciplines). The political structure is the organisation of a society, for example if it has a government of not and how the government looks like. There are different political systems like bands, tribes or kingdoms. Beside the question of how power is organised you can ask about how power is attained. Max Weber, a German sociologist, said that there are three different forms of governments: In the first one you attain power through legal procedures like voting, in the second one through tradition, meaning the heir will be the king's son, and in the third one through charisma.
+Finally here comes the first [subdiscipline of Ethnology](https://www.katchblog.com/subdisciplines). The political structure is the organisation of a society, for example if it has a government of not and how the government looks like. There are different political systems like bands, tribes or kingdoms. Beside the question of how power is organised you can ask about how power is attained. Max Weber, a German sociologist, said that there are three different forms of governments: In the first one you attain power through legal procedures like voting, in the second one through tradition, meaning the heir will be the king's son, and in the third one through charisma.
  
 <!--more-->
  
