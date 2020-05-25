@@ -1,0 +1,3 @@
+[submodule "themes/katchtheme"]
+	path = themes/katchtheme
+	url = https://github.com/jonas27/katchtheme.git

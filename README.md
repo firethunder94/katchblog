@@ -47,5 +47,16 @@ Date, Subdisciplines Link
 [] Views: Münster, Kanonenplatz, Schlossberg
 [] Lakes: 
 [] Hikes: Kybfelsen, Schlossberg, Schneeburg
-[] März: Bärlauch
+
 [] Mai: Erdbeeren
+[] Juni:
+[] Juli: 
+[] August: 
+[] September: 
+[] Oktober:
+[] November:
+[] Dezember:
+[] Januar:
+[] Februar:
+[] März: Bärlauch
+[] April:
