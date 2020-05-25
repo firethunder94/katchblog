@@ -13,7 +13,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Gender could be seen as a topic in [Social Structure](www.katchblog.com/social), but as it is a vast topic I really care about I'm writing a little bit more about it. When I hear gender, some words bump into my mind like gender equality, feminism, third gender, LGBTQ+ community, sex and so on. Those are important things, but gender in Ethnology is even more, as you can read here.
+Gender could be seen as a topic in [Social Structure](https://www.katchblog.com/social), but as it is a vast topic I really care about I'm writing a little bit more about it. When I hear gender, some words bump into my mind like gender equality, feminism, third gender, LGBTQ+ community, sex and so on. Those are important things, but gender in Ethnology is even more, as you can read here.
 
 <!--more-->
 
