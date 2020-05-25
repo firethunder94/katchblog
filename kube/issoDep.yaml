@@ -16,7 +16,7 @@ spec:
       containers:
       - name: isso
         image: jonas27test/isso:latest
-        args: ["isso", "/isso/bin/isso","-c", "$ISSO_SETTINGS"]
+        args: ["/isso/bin/isso","-c", "$ISSO_SETTINGS"]
         ports:
         - name: http
           containerPort: 8080

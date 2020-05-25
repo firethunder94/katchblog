@@ -64,5 +64,6 @@ Date, Subdisciplines Link
 ### Kube stuff
 Install Isso
 ```json
-
+kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoService.yaml 
+kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoDep.yaml 
 ```
