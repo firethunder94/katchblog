@@ -15,6 +15,8 @@
 				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/katja.jpg" ) }}'); background-position: center;">
 				{{ else if eq .Title "Katching Up With Handcraft" }}
 				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/handcraft.jpeg" ) }}'); background-position: center;">
+				{{ else if eq .Title "Freiburg around the Year" }}
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/categories/freiburg.jpg" ) }}'); background-position: center;">
 				{{ else }}
 					<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover {{ if lt .Date.Unix now.Unix }}hide-child{{ end }}" style="background-image: url('{{ absURL (default "/img/default-header-img.tn-500x500.jpg" (default .Params.image .Params.thumbnail)) }}'); background-position: center;">
 				{{ end }}

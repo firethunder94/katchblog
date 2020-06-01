@@ -1,7 +1,7 @@
 ---
 title: "#1 Haferflockenmüsli"
 date: "2020-02-01"
-url: "/haferflockenmüsli"
+url: "/haferflockenmuesli"
 draft: true
 description: "Haferflockenmüsli"
 tldr: "Haferflockenmüsli"
