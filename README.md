@@ -14,8 +14,15 @@ Push changes to github
 ### Counter
 www.katchblog.com/metrics
 
+### Kube stuff
+Install Isso
+```json
+kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoService.yaml 
+kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoDep.yaml 
+kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoDep.yaml 
+```
 
-Date, Subdisciplines Link
+
 
 ### Ethnology
 [xx] Subdisciplines
@@ -61,10 +68,3 @@ Date, Subdisciplines Link
 [] März: Bärlauch
 [] April:
 
-### Kube stuff
-Install Isso
-```json
-kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoService.yaml 
-kubectl apply -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoDep.yaml 
-kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/master/kube/issoDep.yaml 
-```
