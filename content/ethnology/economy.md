@@ -1,8 +1,8 @@
 ---
 title: "Subdiscipline II: Economy"
-date: "2020-04-23"
+date: "2020-06-08"
 url: "/economy"
-draft: true
+draft: false
 description: "Subdisciplines: Economy"
 tldr: "Subdisciplines: Economy"
 image: "/img/subdisciplines/economy.jpg"

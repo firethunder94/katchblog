@@ -14,15 +14,15 @@ theme = "katchtheme"
 
 min_version = "0.47"
 
-[author]
-  name = "Katja Manser"
-  homepage = "0.0.0.0"
-
 # Site settings
 baseurl = "https://katchblog.com/"
 title = "Katch Blog"
 paginate = 5
 buildFuture = true
+
+[author]
+  name = "Katja Manser"
+  homepage = "0.0.0.0"
 
 [[menu.social]]
   name = "GitHub"
@@ -43,6 +43,7 @@ buildFuture = true
   author = "Katja Manser"
   instagram = "traevolo"
   classes = []
+  favicon = "/img/favicon_katch"
 
 
 [outputs]

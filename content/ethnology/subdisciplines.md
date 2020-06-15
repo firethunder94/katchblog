@@ -24,7 +24,7 @@ Before we go further into the subdisciplines, I'd like to go a step backwards an
 - tones: Linguistic anthropology
 - thrones: Social and cultural anthropology
 
-Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different people. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are economy, political structure, religion, social structure and gender. But there are also others like medicine, origins, music, globalisation and so on.
+Let's have a closer look to Social and cultural anthropology and accordingly to Ethnology. **Ethnology** is the study of the characteristics of different people. The focus is primarily on culture. This subfield of Anthropology can be split in various subdisciplines. The most important are [economy](https://www.katchblog.com/economy), [political structure](https://www.katchblog.com/political), [religion](https://www.katchblog.com/religion), social structure and gender. But there are also others like medicine, origins, music, globalisation and so on.
 
 In the next few blog posts I'd like to give you a little insight of the five main subdisciplines. I hope you're looking forward to it as I do!
 

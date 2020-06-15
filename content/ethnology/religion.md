@@ -1,8 +1,8 @@
 ---
 title: "Subdiscipline III: Religion"
-date: "2020-04-24"
+date: "2020-06-15"
 url: "/religion"
-draft: true
+draft: false
 description: "Subdisciplines: Religion"
 tldr: "Subdisciplines: Religion"
 image: "/img/subdisciplines/religion.jpg"
