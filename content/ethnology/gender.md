@@ -1,8 +1,8 @@
 ---
 title: "Subdiscipline V: Gender"
-date: "2020-04-26"
+date: "2020-07-06"
 url: "/gender"
-draft: true
+draft: false
 description: "Subdisciplines: Gender"
 tldr: "Subdisciplines: Gender"
 image: "/img/subdisciplines/gender.png"

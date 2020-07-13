@@ -25,10 +25,6 @@ kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/mast
 
 
 ### Ethnology
-[xx] Subdisciplines
-[xx] Politics
-[xx] Economy
-[xx] Religion
 [xx] Social
 [xx] Gender
 [] Methods
@@ -44,7 +40,7 @@ kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/mast
 [] About Me
 [] Schubladendenken
 [] Veganism
-[xx] Harari Corona 
+[x] Decolonization
 
 ### Freiburg Around the Year
 [] Schwarzwald: Titisee Schluchsee Feldberg
@@ -55,7 +51,7 @@ kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/mast
 [] Lakes: 
 [] Hikes: Kybfelsen, Schlossberg, Schneeburg
 
-[] Mai: Erdbeeren
+[xx] Mai: Erdbeeren
 [] Juni:
 [] Juli: 
 [] August: 

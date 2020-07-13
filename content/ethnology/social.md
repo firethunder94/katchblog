@@ -1,8 +1,8 @@
 ---
 title: "Subdiscipline IV: Social Structure"
-date: "2020-04-25"
+date: "2020-07-06"
 url: "/social"
-draft: true
+draft: false
 description: "Subdiscipline: Social structure"
 tldr: "Subdiscipline: Social structure"
 image: "/img/subdisciplines/social.jpg"
