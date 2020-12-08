@@ -30,17 +30,21 @@ kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/mast
 [] Methods
 
 ### Travels
-[] Belgium
+[xx] Belgium
 [] England
 [] Skandinavia
 [] Slowenia/Croatia
 [] City Trips
+[] Zermatt
+[] Strassburg
+Appenzell
 
 ### Katching Katja
 [] About Me
 [] Schubladendenken
 [] Veganism
 [x] Decolonization
+[] Hochzeit und Strassburg
 
 ### Freiburg Around the Year
 [] Schwarzwald: Titisee Schluchsee Feldberg
@@ -52,8 +56,8 @@ kubectl delete -f https://raw.githubusercontent.com/firethunder94/katchblog/mast
 [] Hikes: Kybfelsen, Schlossberg, Schneeburg
 
 [xx] Mai: Erdbeeren
-[] Juni:
-[] Juli: 
+[xx] Juni: Seen
+[] Juli: Wandern
 [] August: 
 [] September: 
 [] Oktober:

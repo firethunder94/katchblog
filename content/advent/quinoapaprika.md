@@ -1,5 +1,5 @@
 ---
-title: "#1 Gefüllte Paprika mit Quinoa"
+title: "12 Gefüllte Paprika mit Quinoa"
 date: "2020-02-01"
 url: "/quinoapaprika"
 draft: true
@@ -14,7 +14,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Äna. Wie der Titel schon verrät sind es Paprika, gefüllt mit Quinoa und Gemüse. Ein Leckerbissen für den Alltag, aber auch um Gäste zu beeindrucken.
+Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Äna. Wie der Titel schon verrät, sind es Paprika, gefüllt mit Quinoa und Gemüse. Ein Leckerbissen für den Alltag, aber auch um Gäste zu beeindrucken.
 
 <!--more-->
 
@@ -22,8 +22,8 @@ Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Ä
 
 - 160 g Quinoa
 - 4 Paprikas
-- 4 EL Olivenöl
-- 1 Speisezwiebel
+- Olivenöl
+- 1 Zwiebel
 - 1/2 Zucchini
 - 1/2 Aubergine
 - 2 Frühlingszwiebeln
@@ -31,8 +31,7 @@ Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Ä
 - 20 g Tomatenmark
 - 2 TL Paprikapulver
 - 1 TL Kurkuma
-- Salz
-- Pfeffer
+- Salz und Pfeffer
 
 ### Zubereitung
 
@@ -40,7 +39,7 @@ Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Ä
 2. Quinoa in einm Sieb unter fliessendem Wasser waschen. Dann nach Packungsanweisung kochen, jedoch 5 Minuten der Kochzeit abziehen.
 3. Frühlingszwiebeln waschen, trocken schütteln und in Ringe schneiden.
 4. Paprikas waschen, halbieren und entkernen.
-5. Speisezwiebel schälen, klein würfeln und in einer Pfanne in Öl glasig andünsten.
+5. Zwiebel schälen, klein würfeln und in einer Pfanne in Öl glasig andünsten.
 6. Zucchini und Aubergine waschen, klein würfeln und zu den Zwiebeln geben. Das ganze ca. 5 Minuten braten.
 7. Die Hälfte der gestückelten Tomaten und Tomatenmark in die Pfanne geben. Mit Salz, Pfeffer, Paprikapulver und Kurkuma würzen.
 8. Quinoa und Frühlingszwiebeln unter das Gemüse mischen.
@@ -52,5 +51,5 @@ Das heutige Rezept habe ich von KäptnCook und ist von der Foodbloggerin Kptn Ä
 
 ### Tagestipp
 
-Die Küche ist so vielfältig und statt sich immer auf die gleichen Rezepte zu konzentrieren kann es sich lohnen, mal etwas komplett Neues zu wagen. Es gibt so viele Alternativen zu Pasta und Reis (wie hier Quinoa, aber auch Amaranth, Blugur, Couscous, Gerste, ...) und unglaublich viel leckeres Gemüse, das sich verschieden kombinieren lässt. Also ab an den Kochlöffel und viel Spass beim kreativen Kochen!
+Die Küche ist so vielfältig und statt sich immer auf die gleichen Rezepte zu konzentrieren, kann es sich lohnen, mal etwas komplett Neues zu wagen. Es gibt so viele Alternativen zu Pasta und Reis (wie hier Quinoa, aber auch Amaranth, Blugur, Couscous, Gerste, ...) und unglaublich viel leckeres Gemüse, das sich verschieden kombinieren lässt. Also ab an den Kochlöffel und viel Spass beim kreativen Kochen!
 

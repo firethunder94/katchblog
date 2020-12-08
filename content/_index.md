@@ -1,6 +1,6 @@
 ---
 title: Katch Blog
-subtitle: "Catching up with Ethnology and other Fun Stuff (every Monday)"
+subtitle: "Catching up with Ethnology and other Fun Stuff"
 image: "/img/titelbild.jpg"
 ---
 ![Katja Manser](/img/katjamanser.jpeg)

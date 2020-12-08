@@ -1,8 +1,8 @@
 ---
-title: "#1 Pancakes"
-date: "2020-02-01"
+title: "8 Pancakes"
+date: "2020-12-08"
 url: "/pancakes"
-draft: true
+draft: false
 description: "Pancakes, Aquafaba"
 tldr: "Pancakes, Aquafaba"
 image: "/img/advent2020/pancakes.jpg"
@@ -40,4 +40,4 @@ Ich hoffe, ihr habt alle das Kichererbsenwasser, auch unter dem Namen Aquafaba b
 ![](/img/advent2020/pancakes.jpg)
 
 ### Tagestipp
-Aquafaba ist veganer Eischnee-Ersatz. Dieses Nebenprodukt, das oft einfach weggeschüttet wird, kann bei jedem Rezept anstelle von Eischnee verwendet werden. So kann man zum Beispiel Mousse au Chocolat, Kokosmakronen oder Beeren-Baisers in einer veganen Variante machen.
+Aquafaba ist veganer Eischnee-Ersatz. Dieses Nebenprodukt, das oft einfach weggeschüttet wird, kann bei jedem Rezept anstelle von Eischnee verwendet werden. So kann man zum Beispiel Mousse au Chocolat, Kokosmakrons oder Beeren-Baisers in einer veganen Variante machen. Du findest den Gedanken komisch, dass dies gehen soll? Passt denn das zu einem süssen Gericht? Diese Bedenken hatte ich auch, aber getraue dich, es auszuprobieren. Es lohnt sich!

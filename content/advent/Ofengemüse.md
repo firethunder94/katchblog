@@ -1,8 +1,8 @@
 ---
-title: "#1 Ofengemüse"
-date: "2020-02-01"
+title: "4 Ofengemüse"
+date: "2020-12-04"
 url: "/ofengemuese"
-draft: true
+draft: false
 description: "Ofengemüse"
 tldr: "Ofengemüse"
 image: "/img/advent2020/ofengemüse.jpg"
@@ -14,7 +14,7 @@ classes:
 - feature-depth
 - feature-figcaption
 ---
-Eines meiner absoluten Favoriten, vor allem abends, ist Ofengemüse. Alles Gemüse, was noch so zuhause rumliegt, klein schneiden und ab in den Ofen damit. Was bei mir immer dabei ist, sind Kartoffeln. Sie sättigen nicht nur, sondern schmecken auch sehr lecker (ich mein, wer steht nicht auf Kartoffelecken. Diese Menschen sind mir suspekt). Das Rezept hier ist ein Vorschlag und kann ganz individuell aangepasst werden.
+Eines meiner absoluten Favoriten, vor allem abends, ist Ofengemüse. Alles Gemüse, was noch so zuhause rumliegt, klein schneiden, würzen und ab in den Ofen damit. Bei mir immer mit dabei sind Kartoffeln. Sie sättigen nicht nur, sondern schmecken auch sehr lecker (ich mein, wer steht nicht auf Kartoffelecken, diese Menschen sind mir suspekt). Das Rezept hier ist ein Vorschlag und kann ganz individuell angepasst werden.
 
 <!--more-->
 
@@ -43,7 +43,8 @@ Eines meiner absoluten Favoriten, vor allem abends, ist Ofengemüse. Alles Gemü
 
 ### Tagestipp
 
-Was ich für jede Küche empfehlen kann, ist eine grosse Auswahl and Gewürzen und Kräutern. Da ich gerne geärtnere, habe ich im Sommer auch immer frische Kräuter wie Basilikum, Oregano, Petersilie, Schnittlauch und Minze. Die folgenden Kräuter und Gewürze sind bei uns in frischer oder getrockneter Form zu finden.
+Was ich für jede Küche empfehlen kann, ist eine grosse Auswahl and Gewürzen und Kräutern. Da ich gerne gärtnere, habe ich im Sommer auch immer frische Kräuter wie Basilikum, Oregano, Petersilie, Schnittlauch und Minze. Die folgenden Kräuter und Gewürze sind bei uns in frischer oder getrockneter Form zu finden.
 
 Kräuter: Basilikum, Oregano, Petersilie, Schnittlauch, Thymian, Rosmarin, Minze
-Gewürze: Chili, Paprika, Kurkuma, Curry, Kümmel, Muskat
+
+Gewürze: Chili, Paprika, Kurkuma, Curry, Kümmel, Muskat, Pfeffer
