@@ -1,8 +1,8 @@
 ---
 title: "11 Linsensuppe"
-date: "2020-02-01"
+date: "2020-12-11"
 url: "/linsensuppe"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/linsensuppe.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "18 Rotes Linsendahl"
-date: "2020-02-01"
+date: "2020-12-18"
 url: "/linsendahl"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/dahl.jpg"

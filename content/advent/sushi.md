@@ -1,8 +1,8 @@
 ---
 title: "17 Sushi"
-date: "2020-02-01"
+date: "2020-12-17"
 url: "/sushi"
-draft: true
+draft: false
 description: "Sushi"
 tldr: "Sushi"
 image: "/img/advent2020/sushi.jpg"

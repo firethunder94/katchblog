@@ -11,6 +11,13 @@ Commit local changes:
 Push changes to github
 - git push
 
+### Kategorien
+Kategorien unter themes > layouts > partials > li.html
+Bilder unter img > categories
+
+### Comments raus
+baseof.html: isso in der Mitte: "cmd" + "/"
+
 ### Counter
 www.katchblog.com/metrics
 
@@ -57,7 +64,7 @@ Appenzell
 
 [xx] Mai: Erdbeeren
 [xx] Juni: Seen
-[] Juli: Wandern
+[xx] Juli: Wandern
 [] August: 
 [] September: 
 [] Oktober:

@@ -1,8 +1,8 @@
 ---
 title: "13 Shakshuka"
-date: "2020-02-01"
+date: "2020-12-13"
 url: "/shakshuka"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/shakshuka.jpg"
@@ -56,7 +56,7 @@ dazu: getoastete Brotscheiben
 ### Tagestipp
 Die Umwelt ist neben Ethik und Gesundheit ein weiterer Grund für die vegane Ernährung. Der Klimawandel ist in vollem Gange und mittlerweile setzen sich viele Menschen für einen Wechsel in der Klimapolitik ein. Auch als Konsument*in kannst du etwas bewirken, denn durch deinen Kauf entscheidest du, was im Supermarkt verkauft wird.
 
-Die Produktion von tierischen Produkten ist für einen Viertel aller Emissionen zuständig - das ist mehr als der gesamte Verkehr (Flugzeug, Auto, Motorrad, ...). Dazu kommen indirekte Emissionen, da Regenwald abgeholzt wird, um Futter anzubauen. Nur 2 % des Soja wird zu Tofu oder anderen Sojaprodukten weiterverarbeitet, die restlichen 98 % sind Tierfutter.
+Die Produktion von tierischen Produkten ist für einen Viertel aller Emissionen zuständig - das ist mehr als der gesamte Verkehr (Flugzeug, Auto, Motorrad, ...). Dazu kommen indirekte Emissionen, da Regenwald abgeholzt wird, um Futter anzubauen. Nur 20 % des Soja wird zu Tofu oder anderen Sojaprodukten weiterverarbeitet, die restlichen 80 % sind Tierfutter.
 
 Auf einem Drittel der weltweiten Ackerfläche wird Tierfutter angebaut. Dies bedeutet grosse Verluste in der Artenvielfalt. Erschreckend sind folgende Zahlen: 94 % aller lebenden Säugetiere (vom Mensch abgesehen) sind Nutztiere, nur 6 % leben in Freiheit. Von allen Vögeln dieser Welt werden 70 % für den menschlichen Gebrauch gehalten.
 

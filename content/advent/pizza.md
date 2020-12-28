@@ -1,8 +1,8 @@
 ---
 title: "23 Pizza"
-date: "2020-02-01"
+date: "2020-12-23"
 url: "/pizza"
-draft: true
+draft: false
 description: "Pizza, Käsesauce, Sonnenblumenkerne"
 tldr: "Pizza, Käsesauce, Sonnenblumenkerne"
 image: "/img/advent2020/pizza.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "22 Spätzli"
-date: "2020-02-01"
+date: "2020-12-22"
 url: "/spaetzli"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/spätzli.jpg"

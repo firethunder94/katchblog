@@ -1,8 +1,8 @@
 ---
 title: "12 Gefüllte Paprika mit Quinoa"
-date: "2020-02-01"
+date: "2020-12-12"
 url: "/quinoapaprika"
-draft: true
+draft: false
 description: "Gefüllte Paprika mit Quinoa, Neues ausprobieren"
 tldr: "Gefüllte Paprika mit Quinoa, Neues ausprobieren"
 image: "/img/advent2020/quinoapaprika.jpg"

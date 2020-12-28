@@ -1,8 +1,8 @@
 ---
 title: "9 Rösti mit Sojageschnetzeltem"
-date: "2020-02-01"
+date: "2020-12-09"
 url: "/roesti"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/rösti.jpg"

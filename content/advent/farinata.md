@@ -1,8 +1,8 @@
 ---
 title: "15 Farinata"
-date: "2020-02-01"
+date: "2020-12-15"
 url: "/farinata"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/farinata.jpg"

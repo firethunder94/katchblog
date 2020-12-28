@@ -1,8 +1,8 @@
 ---
 title: "14 Pilzaufstrich fürs Brot"
-date: "2020-02-01"
+date: "2020-12-14"
 url: "/pilzaufstrich"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/brotaufstrich.jpg"

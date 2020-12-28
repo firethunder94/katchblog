@@ -1,8 +1,8 @@
 ---
 title: "24 Wirsingrouladen"
-date: "2020-02-01"
+date: "2020-12-24"
 url: "/wirsingrouladen"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/wirsing.jpg"
@@ -53,7 +53,7 @@ Schön, dass du bis zum Ende dabei warst. Hoffentlich konnte ich dir die vegane 
 
 Hier findest du einige Websites und Foodblogger\*innen, die noch ganz viel mehr vegane Rezepte haben:
 
-- [Veganevibes](https://www.veganevibes.de): Blog mit veganen Rezepten und Hintergrundwissen
+- [Veganevibes](https://www.veganevibes.de): Blog mit veganen Rezepten und Hintergrundwissen zu Veganismus
 - [Pick Up Limes](https://www.youtube.com/channel/UCq2E1mIwUKMWzCA4liA_XGQ): Youtube-Tutorials für vegane Rezepte (Englisch)
 - [Utopia](https://utopia.de/ratgeber/vegan-kochen-ohne-ersatzprodukte-ganz-einfach-mit-diesen-rezepten/): Liste mit Rezepten, die ohne Ersatzprodukte gekocht werden können, sortiert nach Art (Suppen, Salate, ...)
 - [Bianca Zaptka](https://biancazapatka.com/de/): Blog mit veganen Gerichten für alle Gelegenheiten

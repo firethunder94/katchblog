@@ -1,8 +1,8 @@
 ---
 title: "21 Wokgemüse mit Reisnudeln"
-date: "2020-02-01"
+date: "2020-12-21"
 url: "/wokgemuese"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/wokgemüse.jpg"

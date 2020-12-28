@@ -17,7 +17,7 @@ min_version = "0.47"
 # Site settings
 baseurl = "https://katchblog.com/"
 title = "Katch Blog"
-paginate = 5
+paginate = 6
 buildFuture = true
 
 [author]
@@ -43,7 +43,7 @@ buildFuture = true
   author = "Katja Manser"
   instagram = "traevolo"
   classes = []
-  favicon = "/img/favicon_katch"
+  favicon = "/img/favicon_katch.png"
 
 
 [outputs]

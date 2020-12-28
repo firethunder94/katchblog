@@ -1,8 +1,8 @@
 ---
 title: "16 Knusprige Hirse-Taler"
-date: "2020-02-01"
+date: "2020-12-16"
 url: "/hirsetaler"
-draft: true
+draft: false
 description: ""
 tldr: ""
 image: "/img/advent2020/hirsetaler.jpg"
