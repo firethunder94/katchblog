@@ -53,6 +53,25 @@ Appenzell
 [x] Decolonization
 [] Hochzeit und Strassburg
 
+### Adventskalender 21
+- Bärlauch-Pancakes
+- Gebratener Chicoree mit Berglinsen
+- Gemüsetaschen mit Pilzfüllung
+- Berglinsen mit mediterraner Gemüsepfanne
+- Chili sin Carne
+- Belugalinsen mit Frühlingszwiebeln
+- Spargeln mit Sauce Hollandaise
+- Bulgursalat mit Tofu
+- Sommerrolls (Fotos fehlen)
+- Thai Curry Suppe (Fotos fehlen)
+
+- Kartoffel-Gemüse-Auflauf
+- Linsendahl mit Gebratenem Tofu
+
+- Burger
+- Spaghetti Carbonara
+- Kartoffelsalat
+
 ### Freiburg Around the Year
 [] Schwarzwald: Titisee Schluchsee Feldberg
 [] further: Tuniberg/Rimsinger/Breisach

@@ -3,6 +3,6 @@ title: Katch Blog
 subtitle: "Catching up with Ethnology and other Fun Stuff"
 image: "/img/titelbild.jpg"
 ---
-![Katja Manser](/img/katjamanser.jpeg)
+![Katja Manser](/img/katjamanser2.jpg)
 
-Hi, my name is Katja, I'm 26, I study Ethnology and I love being in the nature. As Ethnology is not well-known, I'd like to write about it and bring the subject a bit more into the public. Additionally, you find some posts about my life. So, enjoy reading what I have to tell the world.
+Hi, my name is Katja, I'm 27, I study Ethnology and I love being in the nature. As Ethnology is not well-known, I'd like to write about it and bring the subject a bit more into the public. Additionally, you find some posts about my life. So, enjoy reading what I have to tell the world.
