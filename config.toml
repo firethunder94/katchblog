@@ -52,3 +52,6 @@ buildFuture = true
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML", "RSS"]
+
+[minify]
+  minifyOutput = true

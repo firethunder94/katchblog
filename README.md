@@ -11,6 +11,10 @@ Commit local changes:
 Push changes to github
 - git push
 
+### Website
+localhost: hugo server
+Upload: ./upload command
+
 ### Kategorien
 Kategorien unter themes > layouts > partials > li.html
 Bilder unter img > categories
